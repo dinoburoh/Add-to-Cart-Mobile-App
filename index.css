@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     max-width: 240px;
-    height: 240px;
+    /* height: 240px; */
     margin: auto; 
     border: 1px solid #539855;
     border-radius: 10px;
@@ -24,6 +24,8 @@ img {
     margin: 0 auto;
     margin-top: 25px;
 }
+
+
 
 #input{
     margin: 5px;
