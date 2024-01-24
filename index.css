@@ -48,3 +48,12 @@ img {
     border-radius: 5px;
     text-align: center;
 }
+
+#addButton:hover {
+    background-color: bisque;
+    cursor: pointer;
+}
+
+ul li:hover {
+    background-color:aquamarine;
+}
